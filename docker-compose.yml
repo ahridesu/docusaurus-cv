@@ -1,9 +1,0 @@
-version: '3.3'
-
-services:
-  web:
-    build: .
-    volumes:
-      - ./my-website:/app
-    ports:
-      - 3000:3000

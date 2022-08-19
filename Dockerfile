@@ -8,8 +8,4 @@ RUN npm install
 
 COPY /my-website .
 
-ENV PORT=3000
-
-EXPOSE 3000
-
 CMD [ "npm", "start", "--", "--host", "0.0.0.0"]
