@@ -9,7 +9,7 @@ hide_table_of_contents: true
     width="250" />
   <div class="avatar__intro">
     <h1>Ariana Gonçalves </h1>
-    <medium class="avatar__subtitle">I’m a Computer Engineer graduated at the University of Aveiro with a Bachelor’s degree in Computer Engineering and Informatics. Within it I acquired various skills and expanded my knowledge in a wide variety of technological areas. Among these skills are a set of programming languages and practical applications, both in low level and in high level, as well as experience working as a Full Stack developer for paid projects for the University and its associates. I’m interested in further expanding my abilities by progressing into a Cybersecurity Master’s degree. My various works can be found in my GitHub profile.</medium>
+    <medium class="avatar__subtitle">I’m a Computer Engineer graduated at the University of Aveiro with a Bachelor’s degree in Computer Engineering and Informatics. Within it I acquired various skills and expanded my knowledge in a wide variety of technological areas. Among these skills are a set of programming languages and practical applications, both in low level and in high level, as well as experience working as a Full Stack developer for paid projects for the University and its associates. My various works can be found in my GitHub profile.</medium>
   </div>
 </div>
 
@@ -103,7 +103,7 @@ hide_table_of_contents: true
 
 - Full Stack: `Python` `C` `PHP` `Java` `CSS` `JavaScript` `HTML` `MySQL` `PostgreSQL` `Django` `Flask`
 
-- DevOps: `CI/CD` `Ansible` `Linux` `Terraform` `Amazon` `Web` `Services (AWS)` `Kubernetes` `Microsoft Azure` `Bash` `Docker` `Git`
+- DevOps: `CI/CD` `Ansible` `Linux` `Terraform` `Amazon Web Services (AWS)` `Kubernetes` `Microsoft Azure` `Bash` `Docker` `Git`
 
 <div class="container">
     <h4>Soft:</h4>
@@ -159,7 +159,7 @@ hide_table_of_contents: true
         <div class="col-demo"><h4>Science and Technologies</h4></div>
         </div>
         <div class="col col--6">
-        <div class="col-demo"><i>2014 - 2022</i></div>
+        <div class="col-demo"><i>2014 - 2017</i></div>
         </div>
     </div>
 </div>
