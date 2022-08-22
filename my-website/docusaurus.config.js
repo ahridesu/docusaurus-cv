@@ -74,21 +74,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        links: [
-          {
-            title: 'Contacts',
-            items: [
-              {
-                label: 'Email: ariana.gemelgo@findmore.pt',
-                href: 'mailto:ariana.gemelgo@findmore.pt',
-              },
-              {
-                label: 'Phone: +351 915 467 024',
-                href: 'tel:+351915467024',
-              },
-            ],
-          },
-        ],
+        links: [],
         copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
       },
       prism: {
