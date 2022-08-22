@@ -137,7 +137,7 @@ hide_table_of_contents: true
     </div>
     <div class="row">
         <div class="col col--6">
-        <div class="col-demo"><h4>Bachelors's degree in Computer Engineering and Informatics</h4></div>
+        <div class="col-demo"><h4>Bachelor's degree in Computer Engineering and Informatics</h4></div>
         </div>
         <div class="col col--6">
         <div class="col-demo"><i>2017 - 2022</i></div>
